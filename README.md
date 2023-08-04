@@ -92,8 +92,9 @@
 
 ### Тестовая документация (Портфолио)
 - [Проект: Новая функция "Личные события"](https://github.com/nikolaykosasha/PCT)
+- [Тестирование API](https://github.com/nikolaykosasha/apitesting)
 - [Checklist](https://github.com/nikolaykosasha/Checklists.git)
-- [Test-Suites and Test-Cases](https://github.com/nikolaykosasha/test-cases.git)
+- [Test-Cases](https://github.com/nikolaykosasha/test-cases.git)
 - [Bug-Reports](https://github.com/nikolaykosasha/bug-reports.git)
 
 
