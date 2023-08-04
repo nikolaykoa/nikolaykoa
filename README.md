@@ -15,7 +15,7 @@
 
 
 
-### Социальные сети:
+### Связаться со мной:
 <div id="badges">
   <a href="https://www.linkedin.com/in/nikolayko/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
@@ -47,9 +47,7 @@
   <a>
     <img src="https://camo.githubusercontent.com/e034854d37d3efa9d0cadaedca2d548055a14613c5ed8442dc0aa10cf3f08c02/68747470733a2f2f636f6461686f737465642e696f2f7061636b732f32313233362f756e76657273696f6e65642f6173736574732f4c4f474f2f6261313039316335396261623839636432666430663238393632323733316665313631313364376230303930356162653634373539633331336134623733623736633162303432363037366564373663623734373532323334633733343133316466343639393264356238623438666331336532363432343065346637313139663733366366656236346466333664656435346235636266363139386239636164656466313864643063616335633764626364313665363333366332393336336364313239326261" title="TestRail" alt="TestRail" width="40" height="40" />
   </a>
-  <a>
-    <img src="https://camo.githubusercontent.com/dc52ee8a7d86885078e901ba6a8fbc50f4bc68ebb373bfca4db0b92709349f28/68747470733a2f2f646f63732e7465737469742e736f6674776172652f696d616765732f7465737469745f6c6f676f5f69636f6e2e706e67" title="TestIT" alt="TestIT" width="40" height="40" />
-  </a>
+
  <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40" />
   </a>
@@ -77,9 +75,7 @@
 <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="40" height="40" />
   </a>
-  <a>
-    <img src="https://camo.githubusercontent.com/2582ec2237a3a1fbd34e9b57332b72be27a7facb32abe7c2335e5f86e5f457a8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" title="MySQL" alt="MySQL" width="40" height="40" />
-  </a>
+
 <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40" />
   </a>
@@ -95,6 +91,7 @@
 ---
 
 ### Тестовая документация (Портфолио)
+- [Проект: Новая функция "Личные события"](https://github.com/nikolaykosasha/PCT)
 - [Checklist](https://github.com/nikolaykosasha/Checklists.git)
 - [Test-Suites and Test-Cases](https://github.com/nikolaykosasha/test-cases.git)
 - [Bug-Reports](https://github.com/nikolaykosasha/bug-reports.git)
