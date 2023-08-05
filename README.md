@@ -96,6 +96,7 @@
 - [Checklist](https://github.com/nikolaykosasha/Checklists.git)
 - [Test-Cases](https://github.com/nikolaykosasha/test-cases.git)
 - [Bug-Reports](https://github.com/nikolaykosasha/bug-reports.git)
+- [SQL-запросы](https://github.com/nikolaykosasha/SQL)
 
 
 
